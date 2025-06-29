@@ -27,7 +27,7 @@ By using the App, you agree to:
 
 ## 4. Data Collection and Privacy
 
-Use of the App is also governed by our [Privacy Policy](#), which explains how personal and plantation-related data is collected and used. By agreeing to these Terms, you also agree to the Privacy Policy.
+Use of the App is also governed by our [Privacy Policy](https://github.com/ArkVerse/terms/blob/main/tma/privacy-policy.md), which explains how personal and plantation-related data is collected and used. By agreeing to these Terms, you also agree to the Privacy Policy.
 
 ## 5. Intellectual Property
 
